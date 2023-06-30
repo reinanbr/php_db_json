@@ -1,0 +1,67 @@
+{
+    "127.0.0.1": [
+        {
+            "url": "\/",
+            "time": "2023-02-26 20:21:37"
+        },
+        {
+            "url": "\/",
+            "time": "2023-02-26 20:28:21"
+        },
+        {
+            "url": "\/",
+            "time": 1677454113
+        },
+        {
+            "url": "\/",
+            "time": 1677725780,
+            "userAgent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/110.0.0.0 Safari\/537.36"
+        },
+        {
+            "url": "\/",
+            "time": 1677725790,
+            "userAgent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/110.0.0.0 Safari\/537.36"
+        },
+        {
+            "url": "\/",
+            "time": 1677725790,
+            "userAgent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/110.0.0.0 Safari\/537.36"
+        },
+        {
+            "url": "\/",
+            "time": "2023-03-02 00:00:16",
+            "timeSeconds": 1677726016,
+            "userAgent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/110.0.0.0 Safari\/537.36"
+        },
+        {
+            "url": "\/",
+            "time": "2023-03-02 00:00:45",
+            "timeSeconds": 1677726045,
+            "userAgent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/110.0.0.0 Safari\/537.36"
+        },
+        {
+            "url": "\/",
+            "time": "2023-03-02 00:01:39",
+            "timeSeconds": 1677726099,
+            "userAgent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Code\/1.75.1 Chrome\/102.0.5005.194 Electron\/19.1.9 Safari\/537.36"
+        },
+        {
+            "url": "\/",
+            "time": "2023-03-02 00:01:58",
+            "timeSeconds": 1677726118,
+            "userAgent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Code\/1.75.1 Chrome\/102.0.5005.194 Electron\/19.1.9 Safari\/537.36"
+        },
+        {
+            "url": "\/",
+            "time": "2023-03-02 00:02:01",
+            "timeSeconds": 1677726121,
+            "userAgent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Code\/1.75.1 Chrome\/102.0.5005.194 Electron\/19.1.9 Safari\/537.36"
+        },
+        {
+            "url": "\/views",
+            "time": "2023-03-02 00:04:14",
+            "timeSeconds": 1677726254,
+            "userAgent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/110.0.0.0 Safari\/537.36"
+        }
+    ]
+}
